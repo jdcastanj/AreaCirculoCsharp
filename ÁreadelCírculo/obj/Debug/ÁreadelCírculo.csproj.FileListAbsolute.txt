@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\bin\Debug\ÁreadelCírculo.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\bin\Debug\ÁreadelCírculo.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\bin\Debug\ÁreadelCírculo.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\ÁreadelCírculo\ÁreadelCírculo\obj\Debug\ÁreadelCírculo.pdb
